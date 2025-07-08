@@ -16,3 +16,9 @@ func main() {
     })
     http.ListenAndServe(":3000", r)
 }
+// This is just for Basic Golang project.
+
+/*
+* This is just for fun and learning backends.
+* Try to learn.
+*/
